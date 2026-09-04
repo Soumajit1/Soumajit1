@@ -1,5 +1,7 @@
-# 💫 About Me:
-# Soumajit Chakraborty<br><br>### Computer Science & Engineering Student | Software Developer<br><br>I am a B.Tech Computer Science & Engineering student interested in software development, problem solving, cloud technologies, and artificial intelligence.<br><br>### Technical Skills<br><br>* **Languages:** C, C++, Java, Python, JavaScript, SQL<br>* **Web:** HTML, CSS, JavaScript, JSP, Servlet<br>* **Backend & Database:** Java, Flask, MySQL, Firebase<br>* **Tools:** Git, GitHub, VS Code, Linux, Google Cloud<br><br>### Development<br><br>* Building practical software projects and applications<br>* Actively practicing Data Structures and Algorithms<br>* 100+ problems solved on LeetCode<br>* 800+ GitHub contributions in the past year<br><br>### Interests<br><br>Software Engineering · Artificial Intelligence · Cloud Computing · Data Structures & Algorithms<br><br>### Connect<br><br>[GitHub](https://github.com/Soumajit1) | [LinkedIn](https://www.linkedin.com/)<br>
+Hi, I’m **Soumajit Chakraborty**, a Computer Science & Engineering student at **Asansol Engineering College**.
+
+Interested in software development, problem solving, AI, and cloud technologies. Currently focused on building practical projects and strengthening my skills in Data Structures and Algorithms.
+
 
 
 # 💻 Tech Stack:
