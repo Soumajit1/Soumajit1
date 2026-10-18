@@ -4,7 +4,7 @@
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumajit1" alt="soumajit1" /></a> </p>
 
 - How to reach me **soumajitchakraborty.official@gmail.com**
-
+....
 - Know about my experiences [https://drive.google.com/file/d/1S95s8oe-kIa2dkcV7zIPxyK2wH8XZeAX/view?usp=sharing](https://drive.google.com/file/d/1S95s8oe-kIa2dkcV7zIPxyK2wH8XZeAX/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
